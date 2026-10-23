@@ -34,4 +34,5 @@ Thumbs.db
 # Local migration test artifacts
 migration_backup/
 
-*.bak*.backup
+*.bak
+*.backup
